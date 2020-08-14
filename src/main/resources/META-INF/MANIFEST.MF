@@ -1,0 +1,2 @@
+FMLCorePlugin: com.matt.forgehax.asm.ForgeHaxCoreMod,
+FMLCorePluginContainsFMLMod: true
